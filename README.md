@@ -7,3 +7,5 @@ Business chains have more than one location. This model scores each location to 
 
 
 SKU: SITES-PS-RET-AWS-001
+
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-rnuediaog2jlk
